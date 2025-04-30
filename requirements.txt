@@ -1,4 +1,5 @@
-aiogram
+aiogram==2.19
 flatlib
 geopy
 Pillow
+python-dotenv
