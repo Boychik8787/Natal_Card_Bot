@@ -1,4 +1,6 @@
-aiohttp==3.8.1
-geopy
-Pillow
-python-dotenv
+python-telegram-bot==20.3
+flatlib==0.2.3
+Pillow==9.5.0
+geopy==2.3.0
+timezonefinder==6.2.0
+tzdata==2023.3
