@@ -1,5 +1,4 @@
-aiogram==2.19
-flatlib
+aiohttp==3.8.1
 geopy
 Pillow
 python-dotenv
